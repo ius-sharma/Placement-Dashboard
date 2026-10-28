@@ -2,8 +2,6 @@
 
 **AIM:** Create Placement Dashboard using Data Controls.
 
-Ayush Sharma | 92400103460 | 5EC1 | Batch A | 01CE1523 - .NET Technologies
-
 ## Requirements
 
 - Visual Studio with ASP.NET and web development tools and the .NET Framework 4.8 targeting pack.
@@ -38,7 +36,3 @@ This is ASP.NET Web Forms on .NET Framework 4.8. No additional NuGet packages ar
 - **SqlDataSource:** SQL Server data binding with typed control parameters for department/status filters and selected record.
 - **DropDownList:** department and placement-status filters, including combined filtering.
 - **Label:** total students, placed students, placement percentage and highest package.
-
-Summary figures and company summaries cover the entire dataset; filters apply to the student grid. Selecting another filter, sorting or changing page clears the previous detail selection. Package values use LPA (lakh per annum).
-
-The submission PDF and real screenshots from the running application are under `docs/`.
